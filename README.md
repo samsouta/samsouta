@@ -1,12 +1,13 @@
-# ⚡ Samsouta
+# Samsouta
 > I don’t code for hype. I build for impact.
 
-💻 **Full-Stack | Problem Solver | Lifelong Learner**  
+💻 **Full-Stack | Problem Solver**  
 ---
 
-🧠 I build tools that solve real problems  
-🚀 I ship things that work in production  
-🔧 I care about usefulness, not perfection  
+* I build software that solves real-world problems
+* I turn ideas into reliable, production-ready products
+* I value simplicity, impact, and continuous improvement
+
 
 ---
 ## 🌐 Connect With Me  
