@@ -17,6 +17,3 @@
 - 📧 **Email:** samsouta.dev@gmail.com  
 
 > “Simple tools. Real impact.”
----
-
-⭐️ From [samsouta](https://github.com/samsouta)  
